@@ -1,0 +1,6 @@
+body{
+    background-color: aliceblue;
+}
+button:hover{
+    background-color: red;
+}
